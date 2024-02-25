@@ -8,3 +8,4 @@ Give me project proposals too :3
 - [ ] Load Balancer
 ### Python
 - [ ] Recommendation Engine
+- [ ] Image signing to verify ownership.
