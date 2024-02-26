@@ -9,3 +9,5 @@ Give me project proposals too :3
 ### Python
 - [ ] Recommendation Engine
 - [ ] Image signing to verify ownership.
+## JS
+- [ ] Flappy birds generational AI algo. With html canvas as a renderer
