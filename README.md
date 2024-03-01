@@ -12,3 +12,5 @@ Give me project proposals too :3
 - [ ] Image signing to verify ownership.
 ## JS
 - [ ] Flappy birds generational AI algo. With html canvas as a renderer
+- In progress?
+- - [ ] Set up game state
